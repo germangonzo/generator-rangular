@@ -1,0 +1,21 @@
+{
+	"name": "package",
+	"version": "0.0.0",
+	"ignore": [
+		"**/.*",
+		"node_modules",
+		"bower_components",
+		"test",
+		"tests"
+	],
+	"dependencies": {
+		"angular": "1.2.15",
+		"jquery": "1.11.0",
+		"requirejs-domready": "2.0.1",
+		"requirejs": "2.1.6",
+		"angular-ui-router": "0.2.10",
+		"bootstrap": "3.0.3",
+		"angular-bootstrap": "0.10.0",
+		"requirejs-text": "~2.0.10"
+	}
+}
